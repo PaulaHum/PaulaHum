@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulaHum
+- 👋 Hi, I’m Paula
 - 👀 I’m interested in art, architecture, good book and many, many more. You name it.
 - 🌱 I’m currently learning about software testing
 - 💞️ I’m looking to collaborate on open source projects to enhance my knowledge
