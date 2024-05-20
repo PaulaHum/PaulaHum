@@ -32,3 +32,9 @@ jobs:
           git add README.md
           git commit -m 'Update Chuck Norris joke'
           git push
+
+      - name: Push changes
+        env:
+          ACTIONS_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+        run: |
+          git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
