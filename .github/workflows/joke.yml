@@ -1,0 +1,30 @@
+name: Update Chuck Norris Joke
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Uruchamiaj co godzinę
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Fetch Chuck Norris Joke
+        id: joke
+        run: |
+          joke=$(curl -s https://api.chucknorris.io/jokes/random | jq -r .value)
+          echo "::set-output name=joke::$joke"
+      - name: Update README
+        run: |
+          sed -i "s|<JOKE_PLACEHOLDER>|${{ steps.joke.outputs.joke }}|g" README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update Chuck Norris joke'
+          git push
