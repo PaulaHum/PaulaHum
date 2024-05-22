@@ -24,6 +24,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulahum&show_icons=true&locale=en&layout=compact" alt="paulahum" /></p>
 
+![icegif-745](https://github.com/PaulaHum/PaulaHum/assets/156292388/b4824931-1337-4928-be78-fc824163ba11)
+
+
 
 <!---
 PaulaHum/PaulaHum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
