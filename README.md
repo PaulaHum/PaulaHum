@@ -5,9 +5,9 @@
   
 - 👯 I’m looking to collaborate on **open source projects to enhance my knowledge** of software testing
   
-- 🔥 I'm passionate about quality UX in our everyday life
+- 🔥 I'm passionate about **quality UX** in our everyday life
   
-- 👀 I’m interested in art, architecture, good book and many, many more. You name it!
+- 👀 I’m interested in **art, architecture, good book and many, many more**. You name it!
   
 - ⚡ Fun fact **I like B movies as well as ambitious niche ones. The choice depends on my mood 🌤️**
 
