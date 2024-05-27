@@ -1,10 +1,8 @@
-
 ![Gif Banner](https://github.com/PaulaHum/PaulaHum/assets/156292388/e7e698fd-7842-4013-b3ac-cfc461088c18)
 
 
 <h1 align="center"><font color="#264653">Hi there! I'm Paula 👋</font></h1>
 <h3 align="center">A self-taught software tester from Poland</h3>
-<br></br>
 
 - 🌱 I’m currently learning **Automated Web Testing with JavaScript and Playwright**
   
