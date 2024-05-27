@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Automated Web Testing with JavaScript and Playwright**
   
-- 🔥 I'm passionate about **quality UX** in our everyday life
+- 🔥 I'm passionate about **quality UX/UI** in our everyday life
   
 - 👀 I’m interested in **art, architecture, good book and many, many more**. You name it!
   
