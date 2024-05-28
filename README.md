@@ -13,7 +13,7 @@
   
 - ⚡ Fun fact: **I like B movies as well as ambitious niche ones. The choice depends on my mood 🌤️**
 
-- 📫 How to reach me **paula.humeniuk3@gmail.com**
+- 📫 Wanna reach me? No problem! **paula.humeniuk3@gmail.com**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
