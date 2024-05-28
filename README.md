@@ -5,15 +5,15 @@
   
 - 👯 I’m looking to collaborate on **open source projects to enhance my knowledge** of software testing
   
-- 🌱 I’m currently learning **Automated Web Testing with JavaScript and Playwright**
+- 🌱 I’m currently learning **Udemy: Automated Web Testing with JavaScript and Playwright**
   
 - 🔥 I'm passionate about **quality UX/UI** in our everyday life
   
 - 👀 I’m interested in **art, architecture, good book and many, many more**. You name it!
   
-- ⚡ Fun fact: **I like B movies as well as ambitious niche ones. The choice depends on my mood 🌤️**
+- ⚡ Fun fact: I like **B movies** as well as **ambitious niche** ones. The choice depends on my mood 🌤️
 
-- 📫 Wanna reach me? No problem! **paula.humeniuk3@gmail.com**
+- 📫 Wanna **reach me**? No problem! **paula.humeniuk3@gmail.com**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
