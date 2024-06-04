@@ -2,10 +2,10 @@
 
 <h1 align="center"><font color="#264653">Hi there! I'm Paula 👋</font></h1>
 <h3 align="center">A self-taught software tester from Poland</h3>
+
+- 🌱 I’m currently learning **Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert**
   
 - 👯 I’m looking to collaborate on **open source projects to enhance my knowledge** of software testing
-  
-- 🌱 I’m currently learning **Udemy: Automated Web Testing with JavaScript and Playwright**
   
 - 🔥 I'm passionate about **quality UX/UI** in our everyday life
   
