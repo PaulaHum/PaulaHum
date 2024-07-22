@@ -4,6 +4,8 @@
 <h3 align="center">A self-taught software tester from Poland</h3>
 
 - 🌱 I’m currently learning **Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert**
+  and
+  **Udemy: 2024 Tableau Certified Data Analyst Training**
   
 - 👯 I’m looking to collaborate on **open source projects to enhance my knowledge** of software testing
   
