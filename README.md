@@ -1,7 +1,6 @@
-![Gif Banner](https://github.com/user-attachments/assets/7e8598be-f42e-45ca-aa77-ced38f934522)
+![Gif Banner](https://github.com/user-attachments/assets/ab7e4179-6ac8-49bb-ad7f-1c13ab2bdee3)
 
 <h1 align="center"><font color="#264653">Hi there! I'm Paula 👋</font></h1>
-<h3 align="center">A self-taught software tester from Poland</h3>
 
 - 🌱 I’m currently learning **Udemy: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert**
   and
