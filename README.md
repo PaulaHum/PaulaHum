@@ -1,4 +1,4 @@
-![Gif Banner](https://github.com/user-attachments/assets/6a0ee4ca-f6fa-4b54-9474-5515841f49a5)
+![Gif Banner](https://github.com/user-attachments/assets/7e8598be-f42e-45ca-aa77-ced38f934522)
 
 <h1 align="center"><font color="#264653">Hi there! I'm Paula 👋</font></h1>
 <h3 align="center">A self-taught software tester from Poland</h3>
