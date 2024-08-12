@@ -10,11 +10,13 @@
   
 - 🔥 I'm passionate about **quality UX/UI** in our everyday life
   
-- 👀 I’m interested in **art, architecture, good book and many, many more**. You name it!
-  
 - ⚡ Fun fact: I like **B movies** as well as **ambitious niche** ones. The choice depends on my mood 🌤️
 
 - 📫 Wanna **reach me**? No problem! **paula.humeniuk3@gmail.com**
+
+- 📊 you can find my visses here **https://public.tableau.com/app/profile/paula.humeniuk/vizzes** 👀
+<div align="center"><img align="center" width="900" alt="Screenshot 2024-08-12 at 14 06 52" src="https://github.com/user-attachments/assets/339ab56b-43b3-4da4-b9be-25571ae09057"></div>
+
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
