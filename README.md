@@ -15,9 +15,8 @@
 - 📫 Wanna **reach me**? No problem! **paula.humeniuk3@gmail.com**
 
 - 📊 you can find my visses here **https://public.tableau.com/app/profile/paula.humeniuk/vizzes** 👀
-<div align="center"><img align="center" width="900" alt="Screenshot 2024-08-12 at 14 06 52" src="https://github.com/user-attachments/assets/339ab56b-43b3-4da4-b9be-25571ae09057"></div>
+<img width="1444" alt="Screenshot 2024-08-12 at 14 14 07" src="https://github.com/user-attachments/assets/b7674f90-4079-4018-a272-e33239fd9abe">
 
-<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/psiembora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/psiembora" height="30" width="40" /></a>
