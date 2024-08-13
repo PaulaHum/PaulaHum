@@ -32,8 +32,9 @@
 ![icegif-745](https://github.com/PaulaHum/PaulaHum/assets/156292388/b4824931-1337-4928-be78-fc824163ba11)
 
 <h3 align="Left">🚀 Even Elon gave me some credit..😉</h3>
+<img width="470" alt="Screenshot 2024-08-13 at 10 31 24" src="https://github.com/user-attachments/assets/035c56da-9c00-42a4-8fae-35d1197d933f">
 
-<img width="454" alt="Screenshot 2024-08-13 at 10 23 19" src="https://github.com/user-attachments/assets/da1c71a8-619a-4bcd-a0bf-4d46d429968f">
+
 
 <!---
 PaulaHum/PaulaHum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
