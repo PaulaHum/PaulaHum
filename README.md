@@ -24,11 +24,11 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulahum&show_icons=true&locale=en&layout=compact" alt="paulahum" /></p>
-<h2 align="Left">Waste no more time! Stop stalking🕵🏻 start talking😃!</h2>
+<h2 align="Left">Waste no more time! Stop stalking🕵🏻 start talking!</h2>
 
 ![icegif-745](https://github.com/PaulaHum/PaulaHum/assets/156292388/b4824931-1337-4928-be78-fc824163ba11)
 
-<h3 align="Left">🚀 I don't like to brag, but ...😉</h3>
+<h3 align="Left">🚀 I don't like to brag, but ...</h3>
 <img width="470" alt="Screenshot 2024-08-13 at 10 31 24" src="https://github.com/user-attachments/assets/035c56da-9c00-42a4-8fae-35d1197d933f">
 
 
