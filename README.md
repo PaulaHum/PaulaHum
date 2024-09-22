@@ -2,7 +2,7 @@
 
 <h1 align="center"><font color="#264653">Hi there! I'm Paula 👋</font></h1>
 
-- 👯 I’m looking to collaborate on **open source projects to enhance my knowledge** of data analysis and software testing
+- 👯 I’m looking to collaborate on open source projects to enhance my knowledge of **data analysis and software testing**
   
 - 🔥 I'm passionate about **quality UX/UI** in our everyday life
   
