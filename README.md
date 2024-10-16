@@ -10,7 +10,7 @@
 
 - 📫 Wanna **reach me**? No problem! **paula.humeniuk3@gmail.com**
 
-- 📊 you can find my visses here **https://public.tableau.com/app/profile/paula.humeniuk/vizzes** 👀
+- 📊 you can find my vizzies here **https://public.tableau.com/app/profile/paula.humeniuk/vizzes** 👀
 
 <img width="1467" alt="Screenshot 2024-10-14 at 23 27 27" src="https://github.com/user-attachments/assets/338878a8-fdd0-417d-a008-e8ea3a2d1410">
 
